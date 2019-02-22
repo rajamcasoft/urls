@@ -1,0 +1,2 @@
+Simple Angular NodeJS chat
+https://github.com/luixaviles/socket-io-typescript-chat
